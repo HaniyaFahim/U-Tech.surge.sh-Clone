@@ -1,0 +1,14 @@
+.nav-custom:hover{
+   color: rgb(255, 255, 255) ;
+   background: black;
+   font-size: larger;
+    text-decoration: underline double ;
+transition-duration: 0.5s;
+}
+
+.card{
+    margin: 40px !important;
+}
+html {
+    scroll-behavior: smooth;
+  }
